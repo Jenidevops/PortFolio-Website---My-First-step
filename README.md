@@ -44,8 +44,8 @@ This project is more than a website — it’s the **first step** toward my goal
 
 ---
 
-## 🔗 link
-
+## 🔗 link[
+](https://github.com/Jenidevops/PortFolio-Website---My-First-step/settings/pages#:~:text=https%3A//jenidevops.github.io/PortFolio%2DWebsite%2D%2D%2DMy%2DFirst%2Dstep/)
 ---
 
 Thanks for checking out my project!
